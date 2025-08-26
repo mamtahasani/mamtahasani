@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, react.js, express.js and next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@mamtahasani](https://medium.com/@hasanimamta2007)
+- 📝 I regularly write articles on [https://medium.com/@mamtahasani](https://medium.com/@mamtahasani)
 
 - 💬 Ask me about **web development**
 
