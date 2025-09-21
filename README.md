@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning mern stack**
 
-- 🌱 I’m currently learning **Typescript, react.js, express.js and next.js**
+- 🌱 I’m currently learning **react.js, node.js, express.js and next.js**
 
 - 📝 I regularly write articles on [https://medium.com/@mamtahasani](https://medium.com/@mamtahasani)
 
